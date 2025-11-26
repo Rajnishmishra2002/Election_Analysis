@@ -1,0 +1,12 @@
+# Ignore local virtual environment
+.venv/
+
+# VS Code workspace settings
+.vscode/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Power BI exported CSVs folder
+powerbi_csv/
